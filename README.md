@@ -153,7 +153,7 @@ The best and the only way to join the project is by opening an issue or solving 
 
 > If you have any doubts regarding the projects or need help kindly write to us or join on the following links.
 
--  **Email ID -vbsquad@gmail.com**
+-  **Email ID -vbsquad55@gmail.com**
 
 -  **Discord Group-**
 
