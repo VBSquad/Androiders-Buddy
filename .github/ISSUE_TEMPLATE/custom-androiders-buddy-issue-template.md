@@ -6,9 +6,8 @@ labels: ''
 assignees: ''
 
 ---
+**Implement:** (topic name) 
 
-### Implement: (topic name) 
+**Type:** (UI XML or Java) 
 
-### Type: (UI XML or Java) 
-
-### Context: (explain what the issue is that is what and how to implement the above mentioned topic)
+**Context:** (explain what the issue is that is what and how to implement the above mentioned topic)
