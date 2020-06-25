@@ -2,7 +2,7 @@
 
 We welcome you to our project where you can contribute to the project by developing dedicated apps for a particular dedicated topic which will make you acquainted with that topic thoroughly .
 
-This project is simple and easy so that we can help those who are contributing for the first time. Hence, this project also serves as an experience for *'First Time Contributors'*
+This project is simple and easy so that we can help those who are contributing for the first time. Hence, this project also serves as an experience for *'First Time Contributors'*.
 
   
 
