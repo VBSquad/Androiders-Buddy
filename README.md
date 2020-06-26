@@ -4,7 +4,11 @@ We welcome you to our project where you can contribute to the project by develop
 
 This project is simple and easy so that we can help those who are contributing for the first time. Hence, this project also serves as an experience for *'First Time Contributors'*
 
-  
+ <h2 align= "center"><b> Program: </b></h2>
+
+<a href = "http://pclubsummerofcode.in//"><h3 align= "center"><b> PClub Summer Of Code </b></h3></a> 
+
+<p align="center"><img width=30% src="https://github.com/VBSquad/Androiders-Buddy/blob/master/PClub%20Logo.jpeg"></p> 
 
 ## Note ##
 
