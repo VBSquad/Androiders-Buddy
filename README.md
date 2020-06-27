@@ -30,7 +30,7 @@ The project is like your very own repository where you can add android studio ap
 
   
 
-1. UI, the XML part
+1. UI, the XML part/Widgets
 
 2. Java coding
 
@@ -42,10 +42,10 @@ We will then be reviewing and adding your project apps under the respective topi
 
   
 
-## The UI related topics:
+## The UI/Widgets related topics:
 
   <details> 
- <summary>The UI related topics: </summary > <br>
+ <summary>The UI/Widgets related topics: </summary > <br>
 
  - Working with Button
  - Toast
