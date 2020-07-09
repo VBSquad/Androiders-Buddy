@@ -67,7 +67,8 @@ We will then be reviewing and adding your project apps under the respective topi
  - SeekBar 
  - DatePicker 
  - TimePicker 
- - Analog and Digital ProgressBar 
+ - Analog and Digital 
+ - ProgressBar 
  - Vertical ScrollView 
  - HorizontalScrollView
  - ImageSwitcher 
