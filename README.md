@@ -112,7 +112,7 @@ We will then be reviewing and adding your project apps under the respective topi
 
 ## For First time Contributors
 
-Kindly read the [CONTRIBUTE.md](https://github.com/VBSquad/Androiders-Buddy/blob/master/CONTRIBUTE!.md) file first to know some basic git commands and the proper way to create issue and send pull requests.
+Kindly read the [CONTRIBUTE.md](https://github.com/VBSquad/Androiders-Buddy/blob/master/CONTRIBUTING.md) file first to know some basic git commands and the proper way to create issue and send pull requests.
 
   
 
