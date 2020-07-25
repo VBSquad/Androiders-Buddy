@@ -50,7 +50,7 @@ We will then be reviewing and adding your project apps under the respective topi
  - Working with Button
  - Toast
  - List item
- - CustomToast
+ - [CustomToast](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/CustomToast)
  - ToggleButton 
  - CheckBoxCustom 
  - CheckBox 
