@@ -98,8 +98,7 @@ We will then be reviewing and adding your project apps under the respective topi
  - Recording Media 
  - TelephonyManager
  - Get Call State
- - Simple Caller 
- - TalkerPhone 
+ - Simple Caller Talker
  - Call
  - Send SMS
  - Send Email
