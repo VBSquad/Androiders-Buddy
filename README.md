@@ -96,7 +96,7 @@ We will then be reviewing and adding your project apps under the respective topi
  - MediaPlayer: Audio
  - VideoView: Video
  - Recording Media 
- - TelephonyManager
+ - JSON Parser
  - Get Call State
  - Simple Caller Talker
  - Call
