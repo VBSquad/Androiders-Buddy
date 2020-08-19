@@ -97,7 +97,7 @@ We will then be reviewing and adding your project apps under the respective topi
  - VideoView: Video
  - Recording Media 
  - JSON Parser
- - Get Call State
+ - RecyclerView List
  - Simple Caller Talker
  - Call
  - Send SMS
