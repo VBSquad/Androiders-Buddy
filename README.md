@@ -98,7 +98,7 @@ We will then be reviewing and adding your project apps under the respective topi
  - Recording Media 
  - JSON Parser
  - RecyclerView List
- - Simple Caller Talker
+ - QR Code Scanner
  - Call
  - Send SMS
  - Send Email
