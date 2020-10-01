@@ -4,8 +4,19 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#B5CDDF"
     tools:context=".MainActivity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ACCELEROMETER   SENSOR : "
+        android:textSize="25sp"
+        android:fontFamily="cursive"
+        android:textColor="#000000"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        />
     <TextView
         android:id="@+id/textView1"
         android:layout_width="130dp"
@@ -14,6 +25,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginLeft="147dp"
         android:layout_marginTop="208dp"
+        android:textSize="18dp"
         android:text="Axis:" />
 
 </RelativeLayout>
