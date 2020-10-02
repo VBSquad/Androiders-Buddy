@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:padding="4dp"
+            android:text="Area:"
+            android:textSize="18sp" />
+
+
+        <TextView
+            android:id="@+id/tv_area"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:padding="4dp"
+            android:text="@string/mm_label"
+
+            android:textColor="#000000"
+            android:textSize="22sp" />
+
+        <fragment
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context=".MapsActivity" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:animateLayoutChanges="true"
+        android:orientation="vertical"
+        android:paddingBottom="24dp">
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/btnSatellite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            app:backgroundTint="@android:color/white"
+            app:elevation="2dp"
+            app:fabSize="normal"
+            app:srcCompat="@drawable/ic_satellite_on" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab_undo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginBottom="16dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            app:backgroundTint="@android:color/white"
+            app:elevation="2dp"
+            app:fabSize="normal"
+            app:rippleColor="@android:color/darker_gray"
+            app:srcCompat="@drawable/ic_undo_black_24dp" />
+    </LinearLayout>
+
+  <!---->
+    <!--<android.support.design.widget.FloatingActionButton-->
+        <!--android:id="@+id/btn_satellite"-->
+        <!--android:layout_gravity="bottom|end"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_margin="16dp"-->
+        <!--app:backgroundTint="@android:color/transparent"-->
+        <!--android:background="@android:color/transparent"-->
+        <!--app:srcCompat="@drawable/ic_satellite_on"-->
+        <!--app:fabSize="normal"/>-->
+
+       <!---->
+    <!--<android.support.design.widget.FloatingActionButton-->
+        <!--android:id="@+id/fab_undo"-->
+        <!--android:layout_gravity="bottom|end"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_margin="16dp"-->
+        <!--app:backgroundTint="@android:color/white"-->
+        <!--app:elevation="2dp"-->
+        <!--app:fabSize="normal"-->
+        <!--app:rippleColor="@android:color/darker_gray"-->
+        <!--app:srcCompat="@drawable/ic_undo_black_24dp" />-->
+
+</FrameLayout>
