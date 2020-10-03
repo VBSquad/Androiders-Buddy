@@ -10,6 +10,10 @@ This project is simple and easy so that we can help those who are contributing f
 <a href = "http://pclubsummerofcode.in//"><h3 align= "center"><b> PClub Summer Of Code </b></h3></a> 
 
 <p align="center"><img width=30% src="https://github.com/VBSquad/Androiders-Buddy/blob/master/PClub%20Logo.jpeg"></p> 
+<br>
+<p align="center"> PSoC started June 2020 - ended August 2020 </p>
+<br>
+<p align="center"> The PSoC started on June 26th 2020 and ended on August 26th 2020. It was a 2 month long open source event. The issues and pull requests created during this period are of PSoC. The project is open for contribution and will accept changes and updates even after the official coding period of PSoC gets over. Therefore the issues and the pulll requests created after this period are all accepted. </p>
 
 ## Note ##
 
