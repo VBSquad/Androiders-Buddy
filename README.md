@@ -13,7 +13,7 @@ This project is simple and easy so that we can help those who are contributing f
 <br>
 <p align="center"> PSoC started June 2020 - ended August 2020 </p>
 <br>
-<p align="center"> The PSoC started on June 26th 2020 and ended on August 26th 2020. It was a 2 month long open source event. The issues and pull requests created during this period are of PSoC. The project is open for contribution and will accept changes and updates even after the official coding period of PSoC gets over. Therefore the issues and the pulll requests created after this period are all accepted. </p>
+<p align="center"> The PSoC started on June 26th 2020 and ended on August 26th 2020. It was a 2 month long open source event. The issues and pull requests created during this period are of PSoC. The project is open for contribution and will accept changes and updates even after the official coding period of PSoC gets over. Therefore the issues and the pulll requests created after this period are all valid and accepted. </p>
 
 ## Note ##
 
@@ -46,6 +46,13 @@ Further we will have topics which will make you connect your XML with the Java c
 We will then be reviewing and adding your project apps under the respective topic folder.
 
   
+# How to Contribute? :thinking:
+
+- First of all you've to comment down on the issue which you want to do. We will then assignee you that issue/project. Then you have to create an app in which you implement that particular Android topic. Don't just randomly send in your PR we need to follow some basic rules of open source. Although you can create some relevant issues of some good Android topics on which you would like to work or would want to see in the repository ( don't forget to follow the issue template ).
+
+- Secondly then you don't have to upload your entire app which you have created earlier, you have to create a folder in which you add the .java file, the .XML file and the screenshot of the visible working output of the app and then commit and push this folder to the 'UI XML' or 'Java' folder of the repository depending on the topic. Name this folder same as the topic name. After doing so create a PR and follow the PR template.
+
+
 
 ## The UI/Widgets related topics:
 
