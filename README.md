@@ -59,38 +59,38 @@ We will then be reviewing and adding your project apps under the respective topi
   <details> 
  <summary>The UI/Widgets related topics: </summary > <br>
 
- - Working with Button
- - Toast
+ - [Working with Button](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/Working%20with%20Buttons)
+ - [Toast](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/Toast)
  - List item
  - [CustomToast](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/CustomToast)
- - ToggleButton 
- - CheckBoxCustom 
- - CheckBox 
- - RadioButton 
- - Dynamic RadioButton
- - CustomRadioButton 
- - AlertDialog 
- - Spinner 
- - AutoCompleteTextView 
- - ListView
- - CustomListView 
- - RatingBar 
- - WebView 
- - SeekBar 
- - DatePicker 
- - TimePicker 
- - Analog and Digital 
- - ProgressBar 
- - Vertical ScrollView 
- - HorizontalScrollView
- - ImageSwitcher 
- - ImageSlider 
- - ViewStub 
- - TabLayout 
- - TabLayout with FrameLayout 
- - SearchView 
- - SearchView on Toolbar 
- - EditText
+ - [ToggleButton](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/Toggle%20Button) 
+ - [CheckBoxCustom](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/Custom%20checkBox) 
+ - [CheckBox](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/CheckBox) 
+ - [RadioButton](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/Radio%20Button) 
+ - [Dynamic RadioButton](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/RadioButton)
+ - [CustomRadioButton](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/Custom%20Radio%20Button) 
+ - [AlertDialog](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/Alert%20Dialog) 
+ - [Spinner](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/Spinner) 
+ - [AutoCompleteTextView](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/AutoComplete%20TextView) 
+ - [ListView](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/ListView)
+ - [CustomListView](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/CustomListView) 
+ - [RatingBar](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/RatingBar) 
+ - [WebView](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/WebView) 
+ - [SeekBar](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/Seekbar) 
+ - [DatePicker](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/DatePicker) 
+ - [TimePicker](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/TimePicker) 
+ - [Analog and Digital](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/Analog%20Digital) 
+ - [ProgressBar](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/ProgressBar) 
+ - [Vertical ScrollView](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/VerticalScrollView) 
+ - [HorizontalScrollView](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/horizontal%20Scroll%20View)
+ - [ImageSwitcher](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/ImageSwitcher) 
+ - [ImageSlider](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/ImageSlider) 
+ - [ViewStub](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/ViewStub) 
+ - [TabLayout](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/TabLayout) 
+ - [TabLayout with FrameLayout](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/TabLayout%20with%20FrameLayout) 
+ - [SearchView](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/SearchView) 
+ - [SearchView on Toolbar](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/SearchView%20on%20Toolbar) 
+ - [EditText](https://github.com/VBSquad/Androiders-Buddy/tree/master/UI%20XML/EditText)
 </details>
 
   
@@ -99,20 +99,20 @@ We will then be reviewing and adding your project apps under the respective topi
  <summary>The java coding topics: </summary > <br>
 <details>
 
- - Activity LifeCycle
- - Implicit Intent
- - Explicit Intent
- - StartActivityForResult
- - Share App Data
- - Android Fragments
- - MediaPlayer: Audio
- - VideoView: Video
- - Recording Media 
- - JSON Parser
- - RecyclerView List
- - QR Code Scanner
+ - [Activity LifeCycle](https://github.com/VBSquad/Androiders-Buddy/tree/master/Java/Activity%20LifeCycle)
+ - [Implicit Intent](https://github.com/VBSquad/Androiders-Buddy/tree/master/Java/Implicit%20Intent)
+ - [Explicit Intent](https://github.com/VBSquad/Androiders-Buddy/tree/master/Java/Explicit%20Intent)
+ - [StartActivityForResult](https://github.com/VBSquad/Androiders-Buddy/tree/master/Java/StartActivityForResult)
+ - [Share App Data](https://github.com/VBSquad/Androiders-Buddy/tree/master/Java/Share%20App%20Data)
+ - [Android Fragments](https://github.com/VBSquad/Androiders-Buddy/tree/master/Java/AndroidFragments)
+ - [MediaPlayer: Audio](https://github.com/VBSquad/Androiders-Buddy/tree/master/Java/MediaPlayer-Audio)
+ - [VideoView: Video](https://github.com/VBSquad/Androiders-Buddy/tree/master/Java/VideoView%20-%20Video)
+ - Recording Media
+ - [JSON Parser](https://github.com/VBSquad/Androiders-Buddy/tree/master/Java/JSON-Parser)
+ - [RecyclerView List](https://github.com/VBSquad/Androiders-Buddy/tree/master/Java/Recycler%20View)
+ - [QR Code Scanner](https://github.com/VBSquad/Androiders-Buddy/tree/master/Java/QR%20Code%20Scanner)
  - Call
- - Send SMS
+ - [Send SMS](https://github.com/VBSquad/Androiders-Buddy/tree/master/Java/SMS)
  - Send Email
  
  </details>
