@@ -190,3 +190,17 @@ The best and the only way to join the project is by opening an issue or solving 
 # Future :computer:
 
 In the future we are planning to launch this project by deploying this project into an app and website as well so that it accessible to a major audience.
+
+# Suggestions
+
+Certain concepts to be covered in future are as follows:-
+
+## Java
+- Google Maps Integration
+- Custom Backend Authentication (Using NodeJS or Flask or Django)
+- Integrating TensorflowLite model in Android Application
+- PictureInPicture Mode
+
+## UI XML
+- Splashscreens
+- Landing Pages
