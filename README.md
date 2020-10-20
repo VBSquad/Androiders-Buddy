@@ -190,3 +190,24 @@ The best and the only way to join the project is by opening an issue or solving 
 # Future :computer:
 
 In the future we are planning to launch this project by deploying this project into an app and website as well so that it accessible to a major audience.
+
+# Suggestions
+
+Certain concepts to be covered in future are as follows:-
+
+## Java
+- GPS Location
+- Add SQLite DB
+- Event Listeners
+- HTTP requests
+- Multithreading tools like AsyncTasks
+
+## UI XML
+- CardView
+- EmptyView
+- NumberPicker
+- Floating button
+- PopupMenu
+- Bubbles
+- AppBar/ToolBar
+- Button
